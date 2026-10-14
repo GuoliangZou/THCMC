@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+pandas
+pydantic<2
+typing-extensions
+PyYAML
+tabulate
+networkx
+matplotlib
+seaborn
+wandb
